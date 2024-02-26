@@ -1,0 +1,1 @@
+(git stash) && (git pull) && (chmod -R 755 /uac/gds/jyliu/www)
