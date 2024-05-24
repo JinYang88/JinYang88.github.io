@@ -9,11 +9,11 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Education"
-    url: "/#-education"
+  # - title: "Education"
+  #   url: "/#-education"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  # - title: "Honors and Awards"
+  #   url: "/#-honors-and-awards"
 
   # - title: "Internships"
   #   url: "/#-internships"
@@ -21,5 +21,5 @@ main:
   - title: "Services"
     url: "/#-services"
 
-  - title: "Teaching Assistants"
-    url: "/#-teaching-assistants"
+  # - title: "Teaching Assistants"
+  #   url: "/#-teaching-assistants"
