@@ -64,3 +64,12 @@
   [[DOI](https://doi.org/10.1109/ASE56229.2023.00077)]
   [[BibTex](https://www.zhihan-jiang.com/files/ASE'23/Prism-bibtex.txt)]
 
+* `ICSE'23` **Incident-aware Duplicate Ticket Aggregation for Cloud Systems**
+
+  <span style="font-size:14px;"> **Jinyang Liu**, Shilin He, Zhuangbin Chen, Liqun Li, Yu Kang, Xu Zhang, Pinjia He, Hongyu Zhang, Qingwei Lin, Zhangwei Xu, Saravan Rajmohan, Dongmei Zhang, and Michael Lyu.</span>
+
+  <span style="font-size:14px;"> *The 45th International Conference on Software Engineering, Melbourne, Australia, May 14 - 20, 2023.* </span>
+  
+  [[Paper](https://arxiv.org/pdf/2302.09520.pdf)]
+  [[Code](https://github.com/OpsPAI/iPACK)]
+  [[Conference](https://conf.researchr.org/home/icse-2023/)]
