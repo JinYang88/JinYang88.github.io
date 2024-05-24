@@ -1,4 +1,4 @@
-# 📝 Selected Publications ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FJinYang88%2FJinYang88.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&query=%24.message&label=Citation) [[Full List](https://scholar.google.com/citations?user=aUURLnoAAAAJ&hl=en)]
+# 📝 Selected Publications [[Full List](https://scholar.google.com/citations?user=aUURLnoAAAAJ&hl=en)] ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FJinYang88%2FJinYang88.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&query=%24.message&label=Citation)
 
 
 * `ISSTA'24` **A Large-scale Evaluation for Log Parsing Techniques: How Far are We?**
