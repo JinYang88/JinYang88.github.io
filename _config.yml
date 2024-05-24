@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhihan"
-description              : "Ph.D. student of CSE, CUHK"
-repository               : "zhjiang22/zhjiang22.github.io"
+title                    : "Jinyang Liu @ CUHK"
+description              : "Homepage of Jinyang Liu from the Chinese University of Hong Kong"
+repository               : "JinYang88/JinYang88.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhihan Jiang"
+  name             : "Jinyang Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "May we meet by chance, and smiling."
+  bio              : "PhD student @ CUHK"
   location         : "ShaTin, Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=6F85yPcAAAAJ&hl=en"
-  email            : "zhjiang@link.cuhk.edu.hk"
+  email            : "liujy725@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhjiang22"
+  github           : "JinYang88"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhjiang22"
+  linkedin         : 
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

@@ -1,8 +1,16 @@
-I am a 2nd-year CSE Ph.D. student in [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/) at the Chinese University of Hong Kong, supervised by [Prof. Michael R. Lyu](https://www.cse.cuhk.edu.hk/lyu/). Previously, I obtained my Bachelor's degree in Computer Science and Technology from [Sun Yat-sen University](https://cse.sysu.edu.cn), in 2022.
+I am a final-year Ph.D candidate at the Chinese University of Hong Kong, under the supervision of <a
+    href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Michael R. Lyu</a>. I got my Bachelor's (2018) and
+Master's (2020) degree from Sun Yat-Sen University in <a href="http://inpluslab.com/">InPlus Lab</a>,
+under the supervision of <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Zibin ZHENG </a>.
 
-My research interests lie in the reliability of large-scale cloud systems and LLM systems. Currently, my primary focus is on automated analysis and operations utilizing heterogeneous data, e.g., logs, traces, metrics and alerts.
+My research concerns the AIOps, anomaly detection, log analysis, which aims to provide a more reliable
+cloud system.
 
-*I always welcome the opportunity to collaborate and discuss research topics. Feel free to drop me an email if you're interested in connecting with me.* 😃
+Our project <a href="https://github.com/logpai">LogPAI</a> provides an end-to-end solution to
+intelligently manage and analyze logs for modern production systems using machine learning techniques.
+So far, the project has received <b>3000+</b> stars and <b>800+</b> forks and the datasets <a
+    href="https://zenodo.org/record/3227177#.XmcOSS2B0xh">Loghub</a> have been downloaded for more than
+<b>80,000</b> times by <b>370+</b> organizations. Feel free to contact us if you have any questions.
 
 
 
