@@ -73,3 +73,54 @@
   [[Paper](https://arxiv.org/pdf/2302.09520.pdf)]
   [[Code](https://github.com/OpsPAI/iPACK)]
   [[Conference](https://conf.researchr.org/home/icse-2023/)]
+
+* `ISSRE'23` **Loghub: A Large Collection of System Log Datasets for AI-driven Log Analytics**
+
+  <span style="font-size:14px;"> Jieming Zhu, Shilin He, Pinjia He, **Jinyang Liu**, and Michael R. Lyu.</span>
+
+  <span style="font-size:14px;"> *The 34th IEEE International Symposium on Software Reliability Engineering, Florence, Italy, Oct 9 - 12, 2023.*</span>
+  
+  [[Paper](https://arxiv.org/abs/2008.06448)]
+  [[Code](https://github.com/logpai/loghub)]
+  [[Conference](https://issre.github.io/2023/)]
+
+* `ICSE'22` **Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching**
+
+  <span style="font-size:14px;"> Zhuangbin Chen, **Jinyang Liu**, Yuxin Su, Hongyu Zhang, Xiao Ling, and Michael R. Lyu.</span>
+
+  <span style="font-size:14px;"> *The 44th International Conference on Software Engineering, Pittsburgh, May 22 - 27, 2022.* </span>
+  
+  [[Paper](https://arxiv.org/abs/2201.02944.pdf)]
+  [[Code](https://github.com/OpsPAI/ADSketch)]
+  [[Conference](https://conf.researchr.org/home/icse-2022/)]
+
+* `ASE'21` **Graph-based Incident Aggregation for Large-Scale Online Service Systems**
+
+  <span style="font-size:14px;"> Zhuangbin Chen, **Jinyang Liu**, Yuxin Su, Hongyu Zhang, Xuemin Wen, Xiao Ling, Yongqiang Yang, and Michael R. Lyu.</span>
+
+  <span style="font-size:14px;"> *The 36th IEEE/ACM International Conference on Automated Software Engineering, Australia, Nov 14 - 20, 2021.* </span>
+  
+  [[Paper](https://arxiv.org/abs/2108.12179)]
+  [[Code](https://github.com/OpsPAI/grlia)]
+  [[Conference](https://conf.researchr.org/home/ase-2021)]
+
+* `ASE'19` **Logzip: Extracting Hidden Structures via Iterative Clustering for Log Compression**
+
+  <span style="font-size:14px;"> **Jinyang Liu**, Jieming Zhu, Shilin He, Pinjia He, Zibin Zheng, and Michael R. Lyu.</span>
+
+  <span style="font-size:14px;"> *The 34th International Conference on Automated Software Engineering, San Diego, California, United States, Nov 11 - 15, 2019.* </span>
+  
+  [[Paper](https://arxiv.org/abs/1910.00409)]
+  [[Code](https://github.com/logpai/logzip)]
+  [[Conference](https://2019.ase-conferences.org/)]
+
+* `ICSE'19` **Tools and Benchmarks for Automated Log Parsing**
+
+  <span style="font-size:14px;"> Jieming Zhu, Shilin He, **Jinyang Liu**, Pinjia He, Qi Xie, Zibin Zheng, and Michael R. Lyu.</span>
+
+  <span style="font-size:14px;"> *The 41st International Conference on Software Engineering: Software Engineering in Practice, Montréal, QC, Canada, May 25 - 31, 2019.* </span>
+  
+  [[Paper](https://arxiv.org/abs/1811.03509)]
+  [[BibTex](https://dblp.uni-trier.de/rec/conf/icse/ZhuHLHXZL19.html?view=bibtex)]
+  [[Code](https://github.com/logpai/logparser)]
+  [[Conference](https://2019.icse-conferences.org)]
