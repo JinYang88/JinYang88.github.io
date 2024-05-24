@@ -121,6 +121,5 @@
   <span style="font-size:14px;"> *The 41st International Conference on Software Engineering: Software Engineering in Practice, Montréal, QC, Canada, May 25 - 31, 2019.* </span>
   
   [[Paper](https://arxiv.org/abs/1811.03509)]
-  [[BibTex](https://dblp.uni-trier.de/rec/conf/icse/ZhuHLHXZL19.html?view=bibtex)]
   [[Code](https://github.com/logpai/logparser)]
   [[Conference](https://2019.icse-conferences.org)]
