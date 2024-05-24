@@ -1,6 +1,6 @@
 
 # 💼 Services
-- Program Committee: ISSRE'23
+- Program Committee: ISSRE'24
 - External Program Committee: ATC'24
 - (Sub)reviewer: 
   - 2024: ATC, FSE, ICDE, VLDB
