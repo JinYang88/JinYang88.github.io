@@ -18,7 +18,7 @@
 
   <span style="font-size:14px;"> *The ACM International Conference on the Foundations of Software Engineering, Porto de Galinhas, Brazil, July 2024.* </span>
 
-  [[Paper](https://www.zhihan-jiang.com/files/FSE'24/LILAC.pdf)]
+  [[Paper](https://arxiv.org/pdf/2310.01796)]´
   [[Project](https://github.com/logpai/LILAC)]
   [[DOI](https://doi.org/10.1145/3643733)]
 
@@ -29,7 +29,7 @@
 
   <span style="font-size:14px;"> *The ACM International Conference on the Foundations of Software Engineering, Porto de Galinhas, Brazil, July 2024.* </span>
 
-  [[Paper](https://www.zhihan-jiang.com/files/FSE'24/SCLogger.pdf)]
+  [[Paper](https://arxiv.org/pdf/2402.12958)]
   [[Project](https://github.com/YichenLi00/SCLogger)]
   [[DOI](https://doi.org/10.1145/3643754)]
 
@@ -40,7 +40,7 @@
 
   <span style="font-size:14px;"> *The IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice, Lisbon, Portugal, Apr 2024.* </span>
 
-  [[Paper](https://www.zhihan-jiang.com/files/ICSE'24/FaultProfIT.pdf)]
+  [[Paper](https://arxiv.org/abs/2402.17583)]
   [[DOI](https://doi.org/10.1145/3639477.3639754)]
 
 
@@ -50,7 +50,7 @@
 
   <span style="font-size:14px;"> *The IEEE/ACM International Conference on Automated Software Engineering, Kirchberg, Luxembourg, Sep 2023.* <u>(*Equal contribution)</u></span>
   
-  [[Paper](https://www.zhihan-jiang.com/files/ASE'23/Prism.pdf)]
+  [[Paper](https://arxiv.org/abs/2308.07638)]
   [[Project](https://github.com/OpsPAI/Prism)]
   [[DOI](https://doi.org/10.1109/ASE56229.2023.00077)]
 
