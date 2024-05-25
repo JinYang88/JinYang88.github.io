@@ -1,17 +1,15 @@
 # 📝 Selected Publications [[Full List](https://scholar.google.com/citations?user=aUURLnoAAAAJ&hl=en)] ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FJinYang88%2FJinYang88.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&query=%24.message&label=Citation)
 
 
-* `ISSTA'24` **A Large-scale Evaluation for Log Parsing Techniques: How Far are We?**
+* `ISSTA'24` **Loghub 2.0: A Large-scale Evaluation for Log Parsing Techniques: How Far are We?**
 
   <span style="font-size:14px;"> Zhihan Jiang, **Jinyang Liu**, Junjie Huang, Yichen Li, Yintong Huo, Jiazhen Gu, Zhuangbin Chen, Jieming Zhu and Michael R. Lyu. </span>
 
   <span style="font-size:14px;"> *The ACM SIGSOFT International Symposium on Software Testing and Analysis, Vienna, Austria, Sep 2024.* </span>
 
-  [[Paper](https://www.zhihan-jiang.com/files/ISSTA'24/Loghub-2.0.pdf)]
+  [[Paper](https://arxiv.org/pdf/2308.10828)]
   [[Project](https://github.com/logpai/Loghub-2.0)]
-  [Slides]
   [[DOI](https://doi.org/10.1145/3650212.3652123)]
-  [[BibTex](https://www.zhihan-jiang.com/files/ISSTA'24/Loghub-2.0-bibtex.txt)]
 
 
 * `FSE'24` **LILAC: Log Parsing using LLMs with Adaptive Parsing Cache**
@@ -22,9 +20,7 @@
 
   [[Paper](https://www.zhihan-jiang.com/files/FSE'24/LILAC.pdf)]
   [[Project](https://github.com/logpai/LILAC)]
-  [Slides]
   [[DOI](https://doi.org/10.1145/3643733)]
-  [[BibTex](https://www.zhihan-jiang.com/files/FSE'24/LILAC-bibtex.txt)]
 
 
 * `FSE'24` **Go Static: Contextualized Logging Statement Generation**
@@ -35,9 +31,7 @@
 
   [[Paper](https://www.zhihan-jiang.com/files/FSE'24/SCLogger.pdf)]
   [[Project](https://github.com/YichenLi00/SCLogger)]
-  [Slides]
   [[DOI](https://doi.org/10.1145/3643754)]
-  [[BibTex](https://www.zhihan-jiang.com/files/FSE'24/SCLogger-bibtex.txt)]
 
 
 * `ICSE'24` **FaultProfIT: Hierarchical Fault Profiling of Incident Tickets in Large-scale Cloud Systems**
@@ -47,9 +41,7 @@
   <span style="font-size:14px;"> *The IEEE/ACM International Conference on Software Engineering: Software Engineering in Practice, Lisbon, Portugal, Apr 2024.* </span>
 
   [[Paper](https://www.zhihan-jiang.com/files/ICSE'24/FaultProfIT.pdf)]
-  [[Slides](https://www.zhihan-jiang.com/files/ICSE'24/FaultProfIT-slides.pdf)]
   [[DOI](https://doi.org/10.1145/3639477.3639754)]
-  [[BibTex](https://www.zhihan-jiang.com/files/ICSE'24/FaultProfIT-bibtex.txt)]
 
 
 * `ASE'23` **Prism: Revealing Hidden Functional Clusters of Massive Instances in Cloud Systems**
@@ -60,9 +52,7 @@
   
   [[Paper](https://www.zhihan-jiang.com/files/ASE'23/Prism.pdf)]
   [[Project](https://github.com/OpsPAI/Prism)]
-  [[Slides](https://www.zhihan-jiang.com/files/ASE'23/Prism-slides.pdf)]
   [[DOI](https://doi.org/10.1109/ASE56229.2023.00077)]
-  [[BibTex](https://www.zhihan-jiang.com/files/ASE'23/Prism-bibtex.txt)]
 
 * `ICSE'23` **Incident-aware Duplicate Ticket Aggregation for Cloud Systems**
 

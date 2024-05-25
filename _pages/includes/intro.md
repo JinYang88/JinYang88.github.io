@@ -3,7 +3,7 @@ I am a final-year Ph.D candidate at the Chinese University of Hong Kong, under t
 Master's (2020) degree from Sun Yat-Sen University in <a href="http://inpluslab.com/">InPlus Lab</a>,
 under the supervision of <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Zibin ZHENG </a>.
 
-My research concerns the AIOps, anomaly detection, log analysis, which aims to provide a more reliable
+My research concerns AI for infrastructure, including AIOps, anomaly detection, log analysis, which aims to provide a more reliable
 cloud system.
 
 Our project <a href="https://github.com/logpai">LogPAI</a> provides an end-to-end solution to
