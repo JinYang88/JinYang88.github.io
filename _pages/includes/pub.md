@@ -62,7 +62,6 @@
   
   [[Paper](https://arxiv.org/pdf/2302.09520.pdf)]
   [[Code](https://github.com/OpsPAI/iPACK)]
-  [[Conference](https://conf.researchr.org/home/icse-2023/)]
 
 * `ISSRE'23` **Loghub: A Large Collection of System Log Datasets for AI-driven Log Analytics**
 
@@ -72,7 +71,6 @@
   
   [[Paper](https://arxiv.org/abs/2008.06448)]
   [[Code](https://github.com/logpai/loghub)]
-  [[Conference](https://issre.github.io/2023/)]
 
 * `ICSE'22` **Adaptive Performance Anomaly Detection for Online Service Systems via Pattern Sketching**
 
@@ -82,7 +80,6 @@
   
   [[Paper](https://arxiv.org/abs/2201.02944.pdf)]
   [[Code](https://github.com/OpsPAI/ADSketch)]
-  [[Conference](https://conf.researchr.org/home/icse-2022/)]
 
 * `ASE'21` **Graph-based Incident Aggregation for Large-Scale Online Service Systems**
 
@@ -92,7 +89,6 @@
   
   [[Paper](https://arxiv.org/abs/2108.12179)]
   [[Code](https://github.com/OpsPAI/grlia)]
-  [[Conference](https://conf.researchr.org/home/ase-2021)]
 
 * `ASE'19` **Logzip: Extracting Hidden Structures via Iterative Clustering for Log Compression**
 
@@ -102,7 +98,6 @@
   
   [[Paper](https://arxiv.org/abs/1910.00409)]
   [[Code](https://github.com/logpai/logzip)]
-  [[Conference](https://2019.ase-conferences.org/)]
 
 * `ICSE'19` **Tools and Benchmarks for Automated Log Parsing**
 
@@ -112,4 +107,3 @@
   
   [[Paper](https://arxiv.org/abs/1811.03509)]
   [[Code](https://github.com/logpai/logparser)]
-  [[Conference](https://2019.icse-conferences.org)]
