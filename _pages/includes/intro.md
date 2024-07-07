@@ -1,4 +1,4 @@
-I am a final-year Ph.D candidate at the Chinese University of Hong Kong, under the supervision of <a
+I received my Ph.D degree at the Chinese University of Hong Kong, under the supervision of <a
     href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Michael R. Lyu</a>. I got my Bachelor's (2018) and
 Master's (2020) degree from Sun Yat-Sen University in <a href="http://inpluslab.com/">InPlus Lab</a>,
 under the supervision of <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Zibin ZHENG </a>.
