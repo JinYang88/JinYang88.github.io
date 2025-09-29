@@ -2,16 +2,16 @@
 
 
 * `ASE'25` **Automated Proactive Logging Quality Improvement for Large-Scale Codebases**
-  <span style="font-size:14px;"\> Yichen Li, **Jinyang Liu**, Junsong Pu, Zhihan Jiang, Zhuangbin Chen, Xiao He, Tieying Zhang, Jianjun Chen, Yi Li, Rui Shi, Michael R. Lyu. </span\>
-  <span style="font-size:14px;"\> *The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.* </span\>
+  <span style="font-size:14px;"> Yichen Li, **Jinyang Liu**, Junsong Pu, Zhihan Jiang, Zhuangbin Chen, Xiao He, Tieying Zhang, Jianjun Chen, Yi Li, Rui Shi, Michael R. Lyu. </span>
+  <span style="font-size:14px;"> *The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.* </span>
 
 * `ASE'25` **ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems**
-  <span style="font-size:14px;"\> Junsong Pu, Yichen Li, Zhuangbin Chen, **Jinyang Liu**, Zhihan Jiang, Jianjun Chen, Rui Shi, Zibin Zheng, Tieying Zhang. </span\>
-  <span style="font-size:14px;"\> *The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.* </span\>
+  <span style="font-size:14px;"> Junsong Pu, Yichen Li, Zhuangbin Chen, **Jinyang Liu**, Zhihan Jiang, Jianjun Chen, Rui Shi, Zibin Zheng, Tieying Zhang. </span>
+  <span style="font-size:14px;"> *The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.* </span>
 
 * `ASE'25` **LogPilot: Intent-aware and Scalable Alert Diagnosis for Large-scale Online Service Systems**
-  <span style="font-size:14px;"\> Zhihan Jiang, **Jinyang Liu**, Yichen Li, Haiyu Huang, Xiao He, Tieying Zhang, Jianjun Chen, Yi Li, Rui Shi, Michael R. Lyu. </span\>
-  <span style="font-size:14px;"\> *The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.* </span\>
+  <span style="font-size:14px;"> Zhihan Jiang, **Jinyang Liu**, Yichen Li, Haiyu Huang, Xiao He, Tieying Zhang, Jianjun Chen, Yi Li, Rui Shi, Michael R. Lyu. </span>
+  <span style="font-size:14px;"> *The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.* </span>
 
 
 * `ISSTA'24` **Loghub 2.0: A Large-scale Evaluation for Log Parsing Techniques: How Far are We?**
