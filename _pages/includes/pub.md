@@ -1,6 +1,19 @@
 # 📝 Selected Publications [[Full List](https://scholar.google.com/citations?user=aUURLnoAAAAJ&hl=en)] ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FJinYang88%2FJinYang88.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&query=%24.message&label=Citation)
 
 
+* `ASE'25` **Automated Proactive Logging Quality Improvement for Large-Scale Codebases**
+  <span style="font-size:14px;"\> Yichen Li, **Jinyang Liu**, Junsong Pu, Zhihan Jiang, Zhuangbin Chen, Xiao He, Tieying Zhang, Jianjun Chen, Yi Li, Rui Shi, Michael R. Lyu. </span\>
+  <span style="font-size:14px;"\> *The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.* </span\>
+
+* `ASE'25` **ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems**
+  <span style="font-size:14px;"\> Junsong Pu, Yichen Li, Zhuangbin Chen, **Jinyang Liu**, Zhihan Jiang, Jianjun Chen, Rui Shi, Zibin Zheng, Tieying Zhang. </span\>
+  <span style="font-size:14px;"\> *The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.* </span\>
+
+* `ASE'25` **LogPilot: Intent-aware and Scalable Alert Diagnosis for Large-scale Online Service Systems**
+  <span style="font-size:14px;"\> Zhihan Jiang, **Jinyang Liu**, Yichen Li, Haiyu Huang, Xiao He, Tieying Zhang, Jianjun Chen, Yi Li, Rui Shi, Michael R. Lyu. </span\>
+  <span style="font-size:14px;"\> *The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.* </span\>
+
+
 * `ISSTA'24` **Loghub 2.0: A Large-scale Evaluation for Log Parsing Techniques: How Far are We?**
 
   <span style="font-size:14px;"> Zhihan Jiang, **Jinyang Liu**, Junjie Huang, Yichen Li, Yintong Huo, Jiazhen Gu, Zhuangbin Chen, Jieming Zhu and Michael R. Lyu. </span>
