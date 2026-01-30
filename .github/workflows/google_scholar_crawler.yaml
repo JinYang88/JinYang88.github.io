@@ -8,17 +8,53 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 10
     steps:
     - uses: actions/checkout@v2
     - name: Install Reqs
       run: |
         sudo apt-get install python3-setuptools
-    - name: Run
+    - name: Run with retry
       run: |
         cd ./google_scholar_crawler
         pip3 install -r requirements.txt
-        python3 main.py
+        
+        # Retry logic: max 3 attempts, 60s timeout each
+        max_attempts=3
+        attempt=1
+        success=false
+        
+        while [ $attempt -le $max_attempts ]; do
+          echo "=== Attempt $attempt of $max_attempts ==="
+          
+          # Run with 60s timeout
+          if timeout 60s python3 main.py; then
+            echo "✓ Success on attempt $attempt"
+            success=true
+            break
+          else
+            exit_code=$?
+            if [ $exit_code -eq 124 ]; then
+              echo "✗ Timeout (60s exceeded)"
+            else
+              echo "✗ Failed with exit code $exit_code"
+            fi
+            
+            if [ $attempt -lt $max_attempts ]; then
+              echo "Waiting 5s before retry..."
+              sleep 5
+            fi
+          fi
+          
+          attempt=$((attempt + 1))
+        done
+        
+        if [ "$success" = false ]; then
+          echo "All $max_attempts attempts failed"
+          exit 1
+        fi
+        
+        # Push results
         cd ./results
         git init
         git config --local user.name "${GITHUB_ACTOR}"
