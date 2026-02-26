@@ -1,5 +1,6 @@
 # 🔥 News
 - [02/2026] 🎉 Our paper *KRONE: Hierarchical and Modular Log Anomaly Detection* has been accepted by ICDE 2026.
+- [11/2025] 🎉 I will serve as Industry Track Co-Chair for [ISSRE 2026](https://cyprusconferences.org/issre2026/).
 - [09/2025] 🎉 Our LogImprover, ErrorPrism, LogPilot have been accepted by ASE25 industry track. Congrats to my talented interns!
 - [07/2024] 🎉 Passed my thesis defense! I will be joining ByteDance as a Research Scientist, based in San Jose.
 - [03/2024] 🎉 Our *Loghub-2.0 (LogPub)* has been accepted without revision by [ISSTA'24](https://2024.issta.org) (42/471).
