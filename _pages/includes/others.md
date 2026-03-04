@@ -1,8 +1,10 @@
 
 # 💼 Services
-- Program Committee: ISSRE'24
+- Industry Track Co-Chair: ISSRE'26
+- Program Committee: DSN'26 Industry Track, ISSRE'25, ISSRE'24
 - Reviewer: 
-  - 2024: Transactions on Cloud Computing
+  - 2025: TSE, TOSEM, JSS
+  - 2024: TCC
 - External Program Committee: ATC'24
 - (Sub)reviewer: 
   - 2024: ATC, FSE, ICDE, VLDB
