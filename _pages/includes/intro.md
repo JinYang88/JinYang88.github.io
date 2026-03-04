@@ -1,7 +1,7 @@
-I received my Ph.D degree at the Chinese University of Hong Kong, under the supervision of <a
+I am a Research Scientist at ByteDance. I received my Ph.D. degree from the Chinese University of Hong Kong, under the supervision of <a
     href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Michael R. Lyu</a>. I got my Bachelor's (2018) and
 Master's (2020) degree from Sun Yat-Sen University in <a href="http://inpluslab.com/">InPlus Lab</a>,
-under the supervision of <a href="https://www.cse.cuhk.edu.hk/lyu/">Prof. Zibin ZHENG </a>.
+under the supervision of <a href="https://scholar.google.com/citations?user=hmBe63gAAAAJ">Prof. Zibin Zheng</a>.
 
 My research concerns AI for infrastructure, including AIOps, anomaly detection, log analysis, which aims to provide a more reliable
 cloud system.
