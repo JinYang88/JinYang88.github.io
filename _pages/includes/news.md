@@ -1,4 +1,5 @@
 # 🔥 News
+- [03/2026] 🎉 Our paper *Aegis: Proactive Change Risk Detection in Production Cloud Systems* has been accepted by EuroSys 2026.
 - [02/2026] 🎉 Our paper *KRONE: Hierarchical and Modular Log Anomaly Detection* has been accepted by ICDE 2026.
 - [11/2025] 🎉 I will serve as Industry Track Co-Chair for [ISSRE 2026](https://cyprusconferences.org/issre2026/).
 - [09/2025] 🎉 Our LogImprover, ErrorPrism, LogPilot have been accepted by ASE25 industry track. Congrats to my talented interns!

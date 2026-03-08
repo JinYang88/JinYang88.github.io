@@ -1,6 +1,13 @@
 # 📝 Selected Publications [[Full List](https://scholar.google.com/citations?user=aUURLnoAAAAJ&hl=en)] ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FJinYang88%2FJinYang88.github.io%2Fgoogle-scholar-stats%2Fgs_data_shieldsio.json&query=%24.message&label=Citation)
 
 
+* `EuroSys'26` **Aegis: Proactive Change Risk Detection in Production Cloud Systems: ByteDance's Experience**
+
+  <span style="font-size:14px;"> **Jinyang Liu**, Yichen Li, Tieying Zhang, Binbin Chen, Xiao He, Zhihan Jiang, Haipeng Zhang, Gang Wu, Yi Li. </span>
+
+  <span style="font-size:14px;"> *Twenty-First European Conference on Computer Systems, Edinburgh, United Kingdom, Apr 2026.* </span>
+
+
 * `ICDE'26` **KRONE: Hierarchical and Modular Log Anomaly Detection**
 
   <span style="font-size:14px;"> Lei Ma, **Jinyang Liu**, Tieying Zhang, Peter M. VanNostrand, Dennis M. Hofmann, Lei Cao, Elke A. Rundensteiner, Jianjun Chen. </span>
