@@ -1,0 +1,15 @@
+# Newest first. Text is Markdown.
+- date: 2026-03
+  text: "*Aegis: Proactive Change Risk Detection in Production Cloud Systems* accepted by **EuroSys 2026**."
+- date: 2026-02
+  text: "*KRONE: Hierarchical and Modular Log Anomaly Detection* accepted by **ICDE 2026**."
+- date: 2025-11
+  text: "Serving as Industry Track Co-Chair for [ISSRE 2026](https://cyprusconferences.org/issre2026/)."
+- date: 2025-09
+  text: "*LogImprover*, *ErrorPrism* and *LogPilot* accepted by the **ASE 2025** industry track. Congrats to my talented interns!"
+- date: 2024-07
+  text: "Passed my thesis defense! Joining ByteDance as a Research Scientist in San Jose."
+- date: 2024-03
+  text: "*Loghub-2.0 (LogPub)* accepted without revision by [ISSTA 2024](https://2024.issta.org) (42/471)."
+- date: 2024-01
+  text: "*LILAC* and *SCLogger* accepted without revision by [FSE 2024](https://conf.researchr.org/home/fse-2024) (56/483)."
