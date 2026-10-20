@@ -1,12 +1,4 @@
 # Selected publications, newest first. "Jinyang Liu" is bolded automatically.
-- title: "Scalable and Adaptive Log-based Anomaly Detection: A Synergistic Approach"
-  venue: "TOSEM'26"
-  year: 2026
-  authors: "Jinyang Liu, Junjie Huang, Zhihan Jiang, Yintong Huo, Zhuangbin Chen, Jiazhen Gu, Cong Feng, Minzhi Yan, Michael R. Lyu"
-  links:
-    Preprint: https://arxiv.org/abs/2306.05032
-    DOI: https://doi.org/10.1145/3846182
-
 - title: "Aegis: Proactive Change Risk Detection in Production Cloud Systems: ByteDance's Experience"
   venue: "EuroSys'26"
   year: 2026
@@ -20,6 +12,14 @@
   authors: "Lei Ma, Jinyang Liu, Tieying Zhang, Peter M. VanNostrand, Dennis M. Hofmann, Lei Cao, Elke A. Rundensteiner, Jianjun Chen"
   links:
     Paper: https://arxiv.org/abs/2602.07303
+
+- title: "Scalable and Adaptive Log-based Anomaly Detection: A Synergistic Approach"
+  venue: "TOSEM'26"
+  year: 2026
+  authors: "Jinyang Liu, Junjie Huang, Zhihan Jiang, Yintong Huo, Zhuangbin Chen, Jiazhen Gu, Cong Feng, Minzhi Yan, Michael R. Lyu"
+  links:
+    Preprint: https://arxiv.org/abs/2306.05032
+    DOI: https://doi.org/10.1145/3846182
 
 - title: "Automated Proactive Logging Quality Improvement for Large-Scale Codebases"
   venue: "ASE'25"
