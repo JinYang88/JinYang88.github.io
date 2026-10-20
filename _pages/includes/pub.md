@@ -7,6 +7,8 @@
 
   <span style="font-size:14px;"> *Twenty-First European Conference on Computer Systems, Edinburgh, United Kingdom, Apr 2026.* </span>
 
+  [[DOI](https://doi.org/10.1145/3767295.3803614)]
+
 
 * `ICDE'26` **KRONE: Hierarchical and Modular Log Anomaly Detection**
 
@@ -23,17 +25,23 @@
   
   <span style="font-size:14px;"> *The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.* </span>
 
+  [[Paper](https://www.cse.cuhk.edu.hk/lyu/_media/conference/yli_ase2025_automated.pdf)]
+
 * `ASE'25` **ErrorPrism: Reconstructing Error Propagation Paths in Cloud Service Systems**
   
   <span style="font-size:14px;"> Junsong Pu, Yichen Li, Zhuangbin Chen, **Jinyang Liu**, Zhihan Jiang, Jianjun Chen, Rui Shi, Zibin Zheng, Tieying Zhang. </span>
   
   <span style="font-size:14px;"> *The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.* </span>
 
+  [[Paper](https://arxiv.org/abs/2509.26463)]
+
 * `ASE'25` **LogPilot: Intent-aware and Scalable Alert Diagnosis for Large-scale Online Service Systems**
   
   <span style="font-size:14px;"> Zhihan Jiang, **Jinyang Liu**, Yichen Li, Haiyu Huang, Xiao He, Tieying Zhang, Jianjun Chen, Yi Li, Rui Shi, Michael R. Lyu. </span>
   
   <span style="font-size:14px;"> *The IEEE/ACM International Conference on Automated Software Engineering, Seoul, South Korea, Nov 2025.* </span>
+
+  [[Paper](https://arxiv.org/abs/2509.25874)]
 
 
 * `ISSTA'24` **Loghub 2.0: A Large-scale Evaluation for Log Parsing Techniques: How Far are We?**
@@ -53,7 +61,7 @@
 
   <span style="font-size:14px;"> *The ACM International Conference on the Foundations of Software Engineering, Porto de Galinhas, Brazil, July 2024.* </span>
 
-  [[Paper](https://arxiv.org/pdf/2310.01796)]´
+  [[Paper](https://arxiv.org/pdf/2310.01796)]
   [[Project](https://github.com/logpai/LILAC)]
   [[DOI](https://doi.org/10.1145/3643733)]
 

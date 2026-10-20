@@ -8,7 +8,7 @@ cloud system.
 
 Our project <a href="https://github.com/logpai">LogPAI</a> provides an end-to-end solution to
 intelligently manage and analyze logs for modern production systems using machine learning techniques.
-So far, the project has received <b>3000+</b> stars and <b>800+</b> forks and the datasets <a
+So far, the project has received <b>9,000+</b> stars and <b>2,300+</b> forks and the datasets <a
     href="https://zenodo.org/record/3227177#.XmcOSS2B0xh">Loghub</a> have been downloaded for more than
 <b>80,000</b> times by <b>370+</b> organizations. Feel free to contact us if you have any questions.
 
