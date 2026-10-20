@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.title }}</title>
-  <meta name="description" content="{{ site.author.name }} is a {{ site.author.bio }}, working on AIOps, log analysis and anomaly detection for reliable cloud systems.">
+  <meta name="description" content="{{ site.author.name }} is a {{ site.author.bio }}, working on agentic AI for infrastructure reliability.">
   <meta property="og:title" content="{{ site.title }}">
   <meta property="og:type" content="profile">
   <meta property="og:image" content="{{ site.author.avatar | absolute_url }}">
@@ -17,11 +17,6 @@
 </head>
 <body>
 {%- assign pubs = site.data.publications -%}
-{%- assign first_count = 0 -%}
-{%- for p in pubs -%}
-  {%- assign lead = p.authors | split: "," | first | remove: "*" | strip -%}
-  {%- if lead == site.author.name -%}{%- assign first_count = first_count | plus: 1 -%}{%- endif -%}
-{%- endfor -%}
 <div class="page">
   <aside class="profile">
     <img class="avatar" src="{{ site.author.avatar }}" alt="{{ site.author.name }}" width="132" height="132">
@@ -57,11 +52,6 @@
         <ul class="tags">
           {%- for t in page.interests %}<li>{{ t }}</li>{% endfor -%}
         </ul>
-        <ul class="stats">
-          {%- for s in page.stats %}
-          <li><span class="value">{{ s.value }}</span><span class="label">{{ s.label | markdownify | remove: '<p>' | remove: '</p>' | strip }}</span></li>
-          {%- endfor %}
-        </ul>
       </section>
 
       <section id="news">
@@ -74,13 +64,7 @@
       </section>
 
       <section id="publications">
-        <div class="section-head">
-          <h2>Selected Publications</h2>
-          <div class="filter" role="group" aria-label="Filter publications">
-            <button type="button" data-filter="all" aria-pressed="true">All <span>{{ pubs.size }}</span></button>
-            <button type="button" data-filter="first" aria-pressed="false">First author <span>{{ first_count }}</span></button>
-          </div>
-        </div>
+        <h2>Selected Publications</h2>
         <p class="hint">Full list on <a href="{{ site.author.googlescholar }}">Google Scholar</a>.</p>
         {%- assign groups = pubs | group_by: "year" %}
         {%- for g in groups %}
@@ -88,8 +72,7 @@
           <h3 class="year">{{ g.name }}</h3>
           <ol class="pubs">
             {%- for p in g.items %}
-            {%- assign lead = p.authors | split: "," | first | remove: "*" | strip %}
-            <li class="pub"{% if lead == site.author.name %} data-first{% endif %}>
+            <li class="pub">
               <span class="venue">{{ p.venue }}</span>
               <div class="body">
                 <p class="title">{{ p.title }}</p>
@@ -134,15 +117,6 @@
       el.textContent = n.toLocaleString('en-US') + ' citations';
       el.hidden = false;
     }).catch(function () {});
-
-  // Publication filter
-  var list = document.getElementById('publications');
-  list.querySelectorAll('.filter button').forEach(function (b) {
-    b.addEventListener('click', function () {
-      list.querySelectorAll('.filter button').forEach(function (o) { o.setAttribute('aria-pressed', o === b); });
-      list.classList.toggle('only-first', b.dataset.filter === 'first');
-    });
-  });
 
   // Highlight the section currently in view
   var links = {};

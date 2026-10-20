@@ -1,4 +1,12 @@
 # Selected publications, newest first. "Jinyang Liu" is bolded automatically.
+- title: "Scalable and Adaptive Log-based Anomaly Detection: A Synergistic Approach"
+  venue: "TOSEM'26"
+  year: 2026
+  authors: "Jinyang Liu, Junjie Huang, Zhihan Jiang, Yintong Huo, Zhuangbin Chen, Jiazhen Gu, Cong Feng, Minzhi Yan, Michael R. Lyu"
+  links:
+    Preprint: https://arxiv.org/abs/2306.05032
+    DOI: https://doi.org/10.1145/3846182
+
 - title: "Aegis: Proactive Change Risk Detection in Production Cloud Systems: ByteDance's Experience"
   venue: "EuroSys'26"
   year: 2026
@@ -86,6 +94,14 @@
   links:
     Paper: https://arxiv.org/pdf/2302.09520.pdf
     Code: https://github.com/OpsPAI/iPACK
+
+- title: "Practical Anomaly Detection over Multivariate Monitoring Metrics for Online Services"
+  venue: "ISSRE'23"
+  year: 2023
+  authors: "Jinyang Liu, Tianyi Yang, Zhuangbin Chen, Yuxin Su, Cong Feng, Zengyin Yang, Michael R. Lyu"
+  links:
+    Paper: https://arxiv.org/abs/2308.09937
+    DOI: https://doi.org/10.1109/ISSRE59848.2023.00045
 
 - title: "Loghub: A Large Collection of System Log Datasets for AI-driven Log Analytics"
   venue: "ISSRE'23"
