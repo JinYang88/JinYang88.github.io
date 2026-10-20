@@ -1,12 +1,14 @@
 
 # 💼 Services
 - Industry Track Co-Chair: ISSRE'26
-- Program Committee: DSN'26 Industry Track, ISSRE'25, ISSRE'24
+- Program Committee: ISSRE'27, DSN'26 Industry Track, ISSRE'25, ISSRE'24
 - Reviewer: 
+  - 2026: TOSEM, TDSC
   - 2025: TSE, TOSEM, JSS
   - 2024: TCC
 - External Program Committee: ATC'24
 - (Sub)reviewer: 
+  - 2026: ICDE
   - 2024: ATC, FSE, ICDE, VLDB
   - 2023: DSN, FSE
   - 2022: FSE, ISSRE, SRDS
